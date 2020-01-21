@@ -1,0 +1,21 @@
+{
+  "name": "live_stream_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.superlumin.net:vince/live_stream_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "os-utils": "0.0.14",
+    "puppeteer": "^1.19.0",
+    "yargs": "^15.1.0"
+  }
+}
